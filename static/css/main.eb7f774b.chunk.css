@@ -1,0 +1,2 @@
+#wrapper{height:100vh;width:100%;background-color:#00f;display:flex;justify-content:center;align-items:center;transition:background-color 2s}#quote-box{width:500px;padding-bottom:5px}#new-quote,#quote-box{height:-webkit-fit-content;height:-moz-fit-content;height:fit-content}#new-quote{transition:background-color 2s}#author{text-align:right}#author,#text{transition:color 2s}.clicks{display:flex;justify-content:space-between;align-items:center;margin:10px}#tweet-quote{font-size:50px;transition:color 2s}
+/*# sourceMappingURL=main.eb7f774b.chunk.css.map */
