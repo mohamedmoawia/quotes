@@ -15,6 +15,10 @@
 #new-quote{
     height: fit-content;
     transition: background-color 2s;
+    color: white;
+}
+#new-quote:focus{
+    box-shadow: none;
 }
 #author{
     text-align: right;
